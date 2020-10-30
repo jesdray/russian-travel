@@ -1,0 +1,8 @@
+.cover {
+    width: 92%;
+    margin-top: 92px;
+  }
+
+.cover:hover .cover__overlay {
+    opacity: 0.8;
+  } 
