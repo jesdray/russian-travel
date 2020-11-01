@@ -1,9 +1,10 @@
 .intro__text {
     color: #ffffff;
     margin: 0;
-    width: 65%;
+    width: 100%;
     font-family: Inter;
-    font-weight: bold;
     font-size: 12px;
+    font-weight: bold;
     line-height: 18px;
+    text-align: left;
   }

@@ -2,8 +2,23 @@
     color: #ffffff;
     margin: 0;
     width: 65%;
-    font-family: Inter;
-    font-weight: bold;
+    font-family: Inter-bold;
     font-size: 54px;
+    font-style: normal;
+    font-weight: 900;
     line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
   }
+
+@media screen and (max-width: 1279px) {
+  .intro__title {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .intro__title {
+    width: 100%;
+  }
+}

@@ -1,12 +1,5 @@
-.footer__link {
-    color: #ffffff;
-    font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 1em;
-    line-height: 1.1em;
-    text-decoration: none;
-  }
-  .footer__link:hover {
-    opacity: 0.8;
-  }
+@media screen and (max-width: 767px) {
+    .footer__link {
+        margin-bottom: 32px;
+    }
+}
