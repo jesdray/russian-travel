@@ -2,13 +2,19 @@
     display: grid;
     grid-template-columns: 45% 50%;
     grid-template-rows: min-content 3fr;
-    gap: 40px 48px;
+    gap: 48px 40px;
     margin-top: 80px;
   }
   
   .place:nth-of-type(1) {
     margin-top: 0;
   }
+
+@media screen and (max-width: 768px) {
+  .place {
+    gap: 48px 28px;
+  }
+}
 
   @media screen and (max-width: 425px) {
     .place {
