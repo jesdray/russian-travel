@@ -3,10 +3,10 @@
     margin: 0;
     width: 65%;
     font-family: Inter-bold;
-    font-size: 54px;
+    font-size: 3.375em;
     font-style: normal;
-    font-weight: 900;
-    line-height: 58px;
+    font-weight: bold;
+    line-height: 107%;
     letter-spacing: 0em;
     text-align: left;
   }
@@ -20,5 +20,13 @@
 @media screen and (max-width: 1024px) {
   .intro__title {
     width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro__title {
+   font-size: 2em;
+   line-height: 109%;
+   width: 85%;
   }
 }

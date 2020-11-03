@@ -21,5 +21,6 @@
       grid-template-columns: 1fr;
       grid-template-rows: repeat(3, minmax(min-content, max-content)) 0;
       gap: 30px;
+      margin-top: 64px;
     }
   }

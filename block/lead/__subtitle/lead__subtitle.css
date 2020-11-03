@@ -2,10 +2,10 @@
     width: 60%;
     font-family: Inter;
     font-weight: normal;
-    font-size: 30px;
-    line-height: 36px;
+    font-size: 1.875em;
+    line-height: 120%;
     text-align: center;
-    margin: 2em auto 64px;
+    margin: 32px auto 64px;
     color: #ffffff;
   }
 
