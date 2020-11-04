@@ -1,13 +1,13 @@
 .cover__title {
     color: #ffffff;
     font-family: Inter;
-    font-weight: bold;
+    font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     text-align: center;
     z-index: 2;
     width: 45%;
-    margin: 0;
+    margin: 0 auto;
   }
 
 @media screen and (max-width: 1279px) {
@@ -25,10 +25,7 @@
 @media screen and (max-width: 767px) {
   .cover__title {
     width: 70%;
-    font-family: Inter-bold;
-    font-weight: bold;
     font-size: 32px;
     line-height: 35px;
-    text-align: center;
    }
   }

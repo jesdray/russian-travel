@@ -7,7 +7,7 @@
     grid-row: 1;
   }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
   .place__column-links {
     grid-column: 1;
     grid-row: 4;
