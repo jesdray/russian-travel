@@ -1,16 +1,21 @@
 .header__link {
     color: #ffffff;
-    font-family: Inter;
     font-size: 1.5em;
     font-weight: normal;
     line-height: 117%;
     text-align: right;
+    text-decoration: none;
     cursor: pointer;
-    margin: 0;
+    margin: 0 16px 0 0;
+    transition: opacity 0.3s linear;
+}
+
+.header__link:hover {
+    opacity: 0.8;
 }
 
 .header__link:nth-child(2) {
-    margin-left: 10px;
+    margin-right: 0;
 }
 
 @media screen and (max-width: 425px) {

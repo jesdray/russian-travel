@@ -1,32 +1,31 @@
 .intro__title {
-    color: #ffffff;
-    margin: 0;
-    width: 75%;
-    font-family: Inter;
-    font-size: 3.375em;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 107%;
-    letter-spacing: 0em;
-    text-align: left;
-  }
+  color: #ffffff;
+  margin: 0;
+  width: 75%;
+  font-size: 3.375em;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 107%;
+  letter-spacing: 0em;
+  text-align: left;
+}
 
 @media screen and (max-width: 1279px) {
   .intro__title {
-    width: 75%;
+      width: 75%;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .intro__title {
-    width: 100%;
+      width: 100%;
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro__title {
-   font-size: 2em;
-   line-height: 109%;
-   width: 85%;
+      font-size: 2em;
+      line-height: 109%;
+      width: 85%;
   }
 }

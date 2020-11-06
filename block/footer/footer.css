@@ -1,16 +1,16 @@
 .footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: #2A2C2F;
-    width: 92%;
-    margin: 92px auto 0;
-    padding-bottom: 24px;
-  }
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #2a2c2f;
+  width: 92%;
+  margin: 92px auto 0;
+  padding-bottom: 24px;
+}
 
 @media screen and (max-width: 767px) {
-    .footer {
+  .footer {
       flex-direction: column;
       justify-content: flex-start;
-    }
+  }
 }

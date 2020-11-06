@@ -1,7 +1,0 @@
-.header__input {
-    display: none;
-}
-
-.header__input:checked + .header__link {
-    border-bottom: 2px solid #ffffff;
-}
