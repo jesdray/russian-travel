@@ -1,0 +1,19 @@
+.video__image {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 323px;
+    z-index: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .video__image {
+        min-height: 288px;
+    }
+}
+
+@media screen and (max-width: 927px) {
+    .video__image {
+        min-height: 200px;
+    }
+}

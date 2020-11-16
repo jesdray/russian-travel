@@ -38,6 +38,29 @@
 @import url("../block/place/__column-paragraph/place__column-paragraph.css");
 @import url("../block/place/__paragraph/place__paragraph.css");
 
+@import url("../block/video/video.css");
+@import url("../block/video/__content-title/video__content-title.css");
+@import url("../block/video/__content-subtitle/video__content-subtitle.css");
+@import url("../block/video/__content/video__content.css");
+@import url("../block/video/__item/video__item.css");
+@import url("../block/video/__image/video__image.css");
+@import url("../block/video/__image/_kamchatka/video__image_kamchatka.css");
+@import url("../block/video/__image/_observatory/video__image_observatory.css");
+@import url("../block/video/__overlay/video__overlay.css");
+@import url("../block/video/__icon-play/video__icon-play.css");
+@import url("../block/video/__title/video__title.css");
+@import url("../block/video/__subtitle/video__subtitle.css");
+@import url("../block/video/__duration/video__duration.css");
+
+@import url("../block/comments/comments.css");
+@import url("../block/comments/__content-title/comments__content-title.css");
+@import url("../block/comments/__content-subtitle/comments__content-subtitle.css");
+@import url("../block/comments/__content/comments__content.css");
+@import url("../block/comment/comment.css");
+@import url("../block/comment/__image/comment__image.css");
+@import url("../block/comment/__quote/comment__quote.css");
+@import url("../block/comment/__author/comment__author.css");
+
 @import url("../block/cover/cover.css");
 @import url("../block/cover/__link-decoration/cover__link-decoration.css");
 @import url("../block/cover/__image/cover__image.css");

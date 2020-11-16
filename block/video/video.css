@@ -1,0 +1,8 @@
+.video {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    width: 92%;
+    margin-top: 102px;
+}

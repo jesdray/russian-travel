@@ -1,0 +1,18 @@
+.comment__author {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 24px;
+    margin: 0;
+    grid-column: 1;
+    grid-row: 3;
+}
+
+@media screen and (max-width: 768px) {
+    .comment__author {
+        grid-column: 1;
+        grid-row: 2;
+        text-align: center;
+        margin: 16px 0 24px;
+    }
+}

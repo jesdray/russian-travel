@@ -1,7 +1,6 @@
 .cover {
   width: 92%;
   height: min-content;
-  margin-top: 92px;
 }
 
 .cover:hover .cover__overlay {
